@@ -1,0 +1,406 @@
+ 
+  body {
+    margin: auto;
+    width: auto; 
+    padding: 0 15% 0; 
+  }
+
+  .zzz {
+text-align: right;
+  }
+
+.rink {
+  text-align: right;
+}
+  header {
+   width: 100%;
+    display: flex;
+    justify-content: space-between  ;
+  }
+  .logo{
+    width: auto;
+  }
+
+  .lo {
+    width: 400px;
+  }
+ .name {
+  width: 200px;
+  height: 35px;
+ }
+button {
+  background: transparent;
+  font-size: 20px;
+}
+  nav {
+    padding-top: 1%;
+    padding-bottom: 5%;
+    justify-content:space-between;
+    text-align: center;
+    letter-spacing:40px;
+    font-weight: 100;
+    line-height: 1;
+  }  
+  .info {  
+    width: 100%;
+    height: 30%; 
+    margin-top: 100px;
+  }  
+  /* service */
+  h3 {
+   font-size: 2vw;
+   font-family: 'Lato', sans-serif;
+   font-weight: lighter;
+   line-height: 1.0;
+   letter-spacing: 0.05em;
+   color: #333;
+  }
+  
+  .service {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    justify-content:space-between;
+  }
+  .first {
+    width: 30%;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0.06em;
+    line-height: 2em;
+  }
+  .second {
+    width: 30%;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0.06em;
+    line-height: 2em;
+  }
+  .third {
+    width: 30%;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0.06em;
+    line-height: 2em;
+  }
+  h2 {
+  text-align: center;
+    line-height: 1.0;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    /* font-size: 40px; */
+    font-size: 70px;
+    letter-spacing: 0.05em;
+}
+  .info2 {
+    display: none;
+  }
+
+  
+
+  
+
+/* works */
+
+
+
+.pic{
+
+width: 100%;
+text-align: center;
+
+}
+
+img.snowman {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin-top: 5%;
+  border: 2px solid #dddddd; 
+}
+.coment {
+  margin-top: 5%;
+  margin-bottom: 15%;
+  text-align: reft;
+}
+
+.coment1 {
+  margin-top: 0;
+  text-align: reft;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.coment2 {
+  text-align: reft;
+  margin-top: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+  font-size: 23px;
+}
+
+.coment3 {
+  text-align: reft;
+  font-size: 20px;
+  margin-bottom: 0;
+  letter-spacing: 0.16em;
+  line-height: 2;
+}
+
+
+/* about */
+
+.txtBox {
+  font-size: 22px;
+  letter-spacing: 0.06em;
+  line-height: 1em;
+  margin-top: 10%;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+}
+
+img.lion {
+  width: 240px;
+  height: 240px; 
+}
+
+.jicosyoukai {
+  display: flex;
+  padding-bottom: 10%;
+}
+.syoukai {
+  font-size: 21px;
+  word-break: normal;
+  padding-left: 3%;
+  line-height: 1.9;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  color: #333;
+  text-align: left;
+    -webkit-text-size-adjust: 100%;
+}
+
+dl {
+  margin: 0;
+}
+dt {
+  font-weight: bolder;
+  float: left;
+  font-size: 21px;
+  word-break: normal;
+  padding-left: 3%;
+  line-height: 1.9;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  color: #333;
+  text-align: left;
+    -webkit-text-size-adjust: 100%
+
+}
+dd {
+  margin-left: 30%;
+  font-size: 21px;
+  word-break: normal;
+  padding-left: 3%;
+  line-height: 1.9;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  color: #333;
+  text-align: left;
+    -webkit-text-size-adjust: 100%
+}
+ 
+
+
+.form-table {
+  padding-bottom: 10%;
+}
+
+table {
+  border-collapse: collapse;
+  width: auto;
+}
+ 
+
+input[type="submit"],
+input[type="text"],
+select,
+textarea,
+
+button {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  outline: none;
+  border: none;
+}
+
+footer {
+ display: block;
+justify-content: space-between;
+padding-top: 5%;
+padding: 50px;
+  } 
+  .bbb {
+    display: none;
+  }
+
+
+
+
+
+
+
+  .sp-menu {
+      position: absolute;
+  top: 0px;
+  right: 16px;
+  font-size: 32px;
+  cursor: pointer;
+  }
+  
+  .sp-menu #open {
+    font-size: 32px;
+    line-height: 64px;
+    cursor: pointer;
+  }
+  
+  .sp-menu #open.hide {
+    display: none;
+  }
+
+
+
+
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 64px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .6s;
+  letter-spacing:10px;
+}
+
+
+.overlay.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.overlay #close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  font-size: 32px;
+  cursor: pointer;
+}
+
+.overlay ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.overlay li {
+  margin-top: 24px;
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity .3s, transform .3s;
+}
+
+.overlay a { 
+  color: #f2f2f2;
+}
+
+.overlay.show li {
+  opacity: 1;
+  transform: none;
+}
+
+.overlay.show li:nth-child(1) {
+  transition-delay: .1s;
+}
+
+.overlay.show li:nth-child(2) {
+  transition-delay: .2s;
+}
+
+.overlay.show li:nth-child(3) {
+  transition-delay: .3s;
+}
+.overlay.show li:nth-child(4) {
+  transition-delay: .4s;
+}
+
+.overlay.show li:nth-child(5) {
+  transition-delay: .5s;
+}
+
+.overlay.show li:nth-child(6) {
+  transition-delay: .6s;
+}
+
+.pc-menu {
+  display: none;
+}
+
+@media (max-width:720px){
+  body {
+    margin: auto;
+    width: auto; 
+    padding: 0 ; 
+  }
+  .info {  
+    width: 100%;
+    height: 30%;    
+    margin-top: 50px;
+  }  
+
+  h2 {
+      font-size: 40px;
+  }
+
+}
+
+.overlaylist {
+  letter-spacing: 10px;
+}
+
+@media (min-width: 720px) {
+  .pc-menu {
+    display: flex;
+    margin-left: auto;
+  }
+
+  .pc-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+
+  .pc-menu a {
+    display: block;
+    width: 100px;
+    line-height: 64px;
+    text-align: center;
+    color: #f2f2f2;
+  }
+
+  .pc-menu a:hover {
+    background: #f2f2f2;
+    color: #2b2b2b
+  }
+
+  .sp-menu {
+    display: none;
+  }
+}
+
+
